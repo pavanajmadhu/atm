@@ -4,7 +4,7 @@ class Details:
         self.CardNumber=CardNumber
         self.PinNumber=PinNumber
     
-    def transaction(amount1):
+    def transaction(self,amount1):
         print(f"transaction done for rs.{amount1}")
         
     
